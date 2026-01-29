@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs / artifacts
+**/results/
+**/outputs/
+*.log
+
+# Data (keep example data tracked; ignore large real datasets)
+datasets_real/
+*.pt
+*.pth

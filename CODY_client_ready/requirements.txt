@@ -1,0 +1,22 @@
+numpy>=1.23
+pandas>=1.4
+scipy>=1.8
+scikit-learn>=1.2
+
+# Excel I/O
+openpyxl>=3.1
+
+# Boosting (used by several pipelines)
+xgboost>=1.7
+lightgbm>=3.3
+catboost>=1.2
+
+# DL runtime is used for device detection and optional models
+torch>=2.0
+
+# Multi-label stratification + imbalance handling (used in combined/feature_importance)
+iterative-stratification>=0.1.7
+imbalanced-learn>=0.12
+
+# Task-level model (tasks/task.py)
+pytorch-tabnet>=4.1
