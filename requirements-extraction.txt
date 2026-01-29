@@ -1,0 +1,5 @@
+# Optional dependencies for YOLOv8-Pose feature extraction notebook
+ultralytics>=8.0
+opencv-python>=4.7
+matplotlib>=3.7
+tqdm>=4.66
