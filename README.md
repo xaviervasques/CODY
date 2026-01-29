@@ -114,4 +114,27 @@ MIT (see `LICENSE`).
 
 ## Citation
 
-If you use this code in academic work, consider adding a `CITATION.cff` entry with the relevant paper details once available.
+Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders
+
+Laura Cif 1, 2, Diane Demailly 2, 3, Gabriella A. Horvàth 4, Juan Dario Ortigoza Escobar 5, 6, 7, Nathalie Dorison 8, Mayté Castro Jiménez 1, Cécile A. Hubsch 1, Thomas Wirth 9, 10, 11, Gun-Marie Hariz 12, Sophie Huby 13, Morgan Dornadic 13, Zohra Souei 2, 14, Muhammad Mushhood Ur Rehman 15, Simone Hemm 16, Mehdi Boulaymen 2, Eduardo M. Moraud 17, 18, Jocelyne Bloch 18, 19, Xavier Vasques 2       
+
+1  Service of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital (CHUV) and University of Lausanne (UNIL), Lausanne, Switzerland 
+2  Institut du Neurone, Montferrier sur Lez, France
+3  Department of Neurology, Clinique Beau Soleil, Institut Mutualiste Montpelliérain, Montpellier, France
+4  Department of Pediatrics, British Columbia Children’s Hospital, Vancouver, British Columbia, Canada
+5  Movement Disorders Unit, Pediatric Neurology Department, Institut de Recerca, Hospital Sant Joan de Déu, Barcelona, Spain 
+6  European Reference Network for Rare Neurological Diseases (ERN-RND), Barcelona, Spain
+7  U-703 Centre for Biomedical Research on Rare Diseases (CIBER-ER), Instituto de Salud Carlos III, Barcelona, Spain
+8  Pediatric Neurosurgery Department, CCMR Neurogenetique, European Reference Network Brainteam Member, Rothschild Foundation Hospital, Paris, France
+9  Department of Neurology, University Hospital of Strasbourg, Strasbourg, France
+10 Strasbourg Neuroscience Institute, Strasbourg University, Strasbourg, France
+11 Institute of Genetics and Cellular and Molecular Biology, INSERM-U964, CNRS-UMR7104, University of Strasbourg, Illkirch-Graffenstaden, France
+12 Department of Clinical Neuroscience, Umeå University, Umeå, Sweden
+13 Department of Neurology, CHU Montpellier, Montpellier, France
+14 Department of Neurosurgery, Fattouma Bourguiba University Hospital, Tunisia  
+15 University of Edinburgh, Scotland
+16 Institute for Medical Engineering and Medical Informatics, School of Life Sciences, University of Applied Sciences and Arts Northwestern Switzerland, Muttenz, Switzerland
+17 Department of Clinical Neurosciences, University Hospital Lausanne (CHUV), Lausanne, Switzerland
+18 Defitech Center for Interventional Neurotherapies (NeuroRestore), University Hospital Lausanne and Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+19 Department of Neurosurgery, Lausanne University Hospital (CHUV) and University of Lausanne (UNIL), Lausanne, Switzerland. 
+
