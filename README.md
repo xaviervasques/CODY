@@ -1,5 +1,7 @@
 # CODY — Pose-derived ML pipelines for hyperkinetic movement disorder (HMD) detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22232609.svg)](https://doi.org/10.5281/zenodo.22232609)
+
 This repository contains a set of **Python pipelines** to classify hyperkinetic movement disorder phenotypes from **pose-derived distance time series** exported to Excel (`.xlsx`).  
 It includes **window-level**, **task-level**, and **patient-level** workflows, plus a **multi-label / binary-relevance** pipeline and a **feature-importance** pipeline.
 
@@ -103,6 +105,25 @@ To keep the **code unchanged**, scripts use fixed relative paths:
 - `feature_importance/features.py` expects `feature_importance/dataset_lc/` (this repository ships that folder for convenience).
 
 If you plug your own data, place it into the expected folder(s) or adapt the configuration variables at the top of each script.
+
+---
+
+## Data availability
+
+The full CODY dataset is archived on Zenodo (CC BY 4.0):
+**DOI: [10.5281/zenodo.22232609](https://doi.org/10.5281/zenodo.22232609)**
+
+The features used by this study (CODY-1) are in
+`dataset_0_labels_raw_cody_1_2_yolo.zip`: per-rater expert labels together
+with the YOLOv8 COCO-17 keypoint time-series and per-keypoint `*_distance`
+signals for the 25-participant training cohort (`dataset_0`), one `.xlsx`
+per subject/video — the exact format expected by these pipelines (see
+*Data expectation* above). The `datasets/` folder of this repository only
+ships small examples; download the archive for the real data.
+
+The raw clinical videos are not distributed (identifiable patient data).
+The same Zenodo record also carries the archives of the follow-up CODY-2
+(`*_cody_2_yolo`) and CODY-3 (`*_cody_3_sam3`) studies, not used here.
 
 ---
 
