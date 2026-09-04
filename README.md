@@ -111,7 +111,8 @@ If you plug your own data, place it into the expected folder(s) or adapt the con
 ## Data availability
 
 The full CODY dataset is archived on Zenodo (CC BY 4.0):
-**DOI: [10.5281/zenodo.22232609](https://doi.org/10.5281/zenodo.22232609)**
+**DOI (v1.1.0, the published version): [10.5281/zenodo.22275553](https://doi.org/10.5281/zenodo.22275553)**
+(concept DOI for all versions: [10.5281/zenodo.22232609](https://doi.org/10.5281/zenodo.22232609))
 
 The features used by this study (CODY-1) are in
 `dataset_0_labels_raw_cody_1_2_yolo.zip`: per-rater expert labels together
